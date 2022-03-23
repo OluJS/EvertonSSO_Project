@@ -1,7 +1,7 @@
 # EvertonSSO_Project
 
 ## Overview
-This project is to test Everton's Registration Form to ensure that users are able to succesfully register.
+This project is to test Everton's Registration Form to ensure that users are able to successfully register.
 <br>
 <br>
 ***NOTE: this test will fail at the last step.***
